@@ -115,7 +115,8 @@ print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w
 ~~~
 
 ## OUTPUT :
-![img1]()    
+![img1](https://github.com/kiran03-jagadeesh/Experiment-5-Implementation-of-XOR-using-RBF/blob/main/NN-01.png)    
+![img1](https://github.com/kiran03-jagadeesh/Experiment-5-Implementation-of-XOR-using-RBF/blob/main/NN-02.png)    
 
 ## RESULT:
 Thus,The program to classify the Binary input patterns of XOR data by implementing Radial Basis Function Neural Networks has been excuted successfuly.
